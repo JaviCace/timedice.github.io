@@ -1,63 +1,11 @@
-h1 
-{
-    color:blueviolet;font-size: 75px;text-align: center;
-}
-h2
-{
-  color:blueviolet;font-size: 55px;text-align: center;
-  
-}.clase 
-{
-  color:darkorchid;font-size:30px; text-align: center;
-}
 
-.backgrounded
-{
-   background-color:aqua;
-   background-image: 
-   url('https://images.vexels.com/media/users/3/140057/isolated/preview/f81b565034ebd3bda48bfd33b4aed3f3-dados-de-juguete.png'),
-   url('https://images.vexels.com/media/users/3/140057/isolated/preview/f81b565034ebd3bda48bfd33b4aed3f3-dados-de-juguete.png'),
-   url('https://images.vexels.com/media/users/3/140057/isolated/preview/f81b565034ebd3bda48bfd33b4aed3f3-dados-de-juguete.png'),
-   url('https://images.vexels.com/media/users/3/140057/isolated/preview/f81b565034ebd3bda48bfd33b4aed3f3-dados-de-juguete.png'),
-   url('https://images.vexels.com/media/users/3/140057/isolated/preview/f81b565034ebd3bda48bfd33b4aed3f3-dados-de-juguete.png'),
-   url('https://www.macaumr.com/wp-content/uploads/2024/08/casino-dice.webp'),
-   url('https://www.macaumr.com/wp-content/uploads/2024/08/casino-dice.webp'),
-   url('https://www.macaumr.com/wp-content/uploads/2024/08/casino-dice.webp'); 
-
-
-   background-position: 
-   10% 20%, 
-   70% 30%, 
-   40% 80%, 
-   90% 10%, 
-   30% 45%,
-   68% 60%,
-   98% 78%,
-   10% 90%;
-   
-
-background-size: 
-   100px 100px, 
-   120px 120px, 
-   90px 90px, 
-   110px 110px, 
-   120px 120px,
-   120px 120px, 
-   90px 90px,
-   110px 110px; 
-   
-background-repeat: no-repeat;
-  
-    
-   position: relative;
-}
 
 <html lang="es">
 <head>
   <meta charset="utf-8">
   <title>HTML</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="estilos.css"> 
+  <link rel="stylesheet" href="estilos.css.css"> 
  
 </head>
 <body class="backgrounded">
