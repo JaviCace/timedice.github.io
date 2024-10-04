@@ -9,7 +9,7 @@
  
 </head>
 <body class="backgrounded">
-    <h1><strong>L</strong></h1>
+    <h1><strong>TIME DICE</strong></h1>
     <h2>
        Creado por Guardian Enigma 
     </h2>
